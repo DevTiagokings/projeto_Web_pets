@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QKM2DRU2hwI=",
+  "dgSpecHash": "20oZ059v1R8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\c-sharp\\Projeto_Web_pets\\Projeto_Web-Lh_Pets_Alunos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

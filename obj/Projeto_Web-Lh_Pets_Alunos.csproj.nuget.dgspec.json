@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj": {}
+    "C:\\Users\\tiago\\OneDrive\\c-sharp\\Projeto_Web_pets\\Projeto_Web-Lh_Pets_Alunos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj": {
+    "C:\\Users\\tiago\\OneDrive\\c-sharp\\Projeto_Web_pets\\Projeto_Web-Lh_Pets_Alunos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+        "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\c-sharp\\Projeto_Web_pets\\Projeto_Web-Lh_Pets_Alunos.csproj",
         "projectName": "Projeto_Web-Lh_Pets_Alunos",
-        "projectPath": "C:\\Users\\tiago\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+        "projectPath": "C:\\Users\\tiago\\OneDrive\\c-sharp\\Projeto_Web_pets\\Projeto_Web-Lh_Pets_Alunos.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\obj\\",
+        "outputPath": "C:\\Users\\tiago\\OneDrive\\c-sharp\\Projeto_Web_pets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
