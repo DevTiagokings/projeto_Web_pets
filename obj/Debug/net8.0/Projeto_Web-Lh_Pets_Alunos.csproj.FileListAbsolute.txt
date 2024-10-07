@@ -4,3 +4,10 @@ C:\Users\tiago\Downloads\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web
 C:\Users\tiago\Downloads\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfo.cs
 C:\Users\tiago\Downloads\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.csproj.CoreCompileInputs.cache
 C:\Users\tiago\Downloads\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiago\OneDrive\c-sharp\Projeto_Web_pets\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\c-sharp\Projeto_Web_pets\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\c-sharp\Projeto_Web_pets\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\c-sharp\Projeto_Web_pets\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\c-sharp\Projeto_Web_pets\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\c-sharp\Projeto_Web_pets\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiago\OneDrive\c-sharp\Projeto_Web_pets\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.sourcelink.json
